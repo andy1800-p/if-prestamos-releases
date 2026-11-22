@@ -1,7 +1,12 @@
 {
-  "version": "0.0.0",
-  "buildNumber": 0,
-  "apkUrl": "https://github.com/andy1800-p/if-prestamos-releases/releases/latest/download/Impulso-Financiero.apk",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "releaseNotes": []
+  "version": "1.0.0",
+  "buildNumber": 1,
+  "apkUrl": "https://github.com/andy1800-p/if-prestamos-releases/releases/download/v1.0.0/Impulso-Financiero-1.0.0-build1.apk",
+  "sha256": "0bae96eb8d76403c1809524749ec6606e36e1c5158a863bbb0d596f27de552cb",
+  "releaseNotes": [
+    "Primera versión de Impulso Financiero para Android.",
+    "Acceso con Google conectado al proyecto Firebase IF Prestamos.",
+    "Registro y consulta de préstamos y abonos, calendario e historial.",
+    "Comprobantes digitales e impresión desde Android."
+  ]
 }
